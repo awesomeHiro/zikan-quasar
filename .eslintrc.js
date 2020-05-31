@@ -31,7 +31,6 @@ module.exports = {
     // usage with Prettier, provided by 'eslint-config-prettier'.
     'airbnb',
     'prettier',
-
     'prettier/vue'
   ],
 
