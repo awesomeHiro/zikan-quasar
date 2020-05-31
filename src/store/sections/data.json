@@ -1,0 +1,13 @@
+[
+  { "id": "--------", "start": "22:00", "end":"03:59", "name": "A", "desc": "Sleep" },
+  { "id": "8411B490", "start": "04:00", "end":"06:49", "name": "B", "desc": "L1" },
+  { "id": "B19D62C0", "start": "06:50", "end":"08:59", "name": "C", "desc": "Cafe" },
+  { "id": "4990F7EE", "start": "09:00", "end":"11:59", "name": "D", "desc": "Job1" },
+  { "id": "58987B78", "start": "12:00", "end":"12:29", "name": "E", "desc": "Nap1" },
+  { "id": "FD2C2551", "start": "12:30", "end":"14:59", "name": "F", "desc": "Job2" },
+  { "id": "FD2CC351", "start": "15:00", "end":"15:29", "name": "G", "desc": "Nap2" },
+  { "id": "FD2CC541", "start": "15:30", "end":"17:59", "name": "H", "desc": "Job2" },
+  { "id": "FD2CC551", "start": "18:00", "end":"18:29", "name": "I", "desc": "Nap3" },
+  { "id": "FD2CC552", "start": "18:30", "end":"19:59", "name": "J", "desc": "Workout" },
+  { "id": "FD2CC553", "start": "20:00", "end":"21:59", "name": "K", "desc": "L1" }
+]

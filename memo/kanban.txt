@@ -1,0 +1,36 @@
+# backlog--------------------------
+fireStore implement
+execute task
+edit task
+user auth
+define data structure
+space property to summary
+statistic
+sidebar like a Discord
+
+
+# todo-----------------------------
+
+fixed filed add componnet like Slack
+redefine sections for a lite user
+
+# doing----------------------------
+Try UI framework Ant Design
+
+
+
+# done-----------------------------
+fix: swiper-wrapper height is bugged
+gap between pane
+3 pain UI(sections, todo tasks, done tasks) by carousel
+shrink Todo
+remove vue-easy-dnd
+sortable task list with handle
+add Vue.Draggable
+try fireStore
+store implement
+summary component
+addTask component
+clock component
+dayTab component
+main page

@@ -1,0 +1,14 @@
+# Let's think about data structure
+I will use Firebase to accelerate development\
+Here's important things to consider
+* Minimize a cost using DBaaS
+* Prepare for future updates
+
+# about DBaaS
+I will use two DBaaS to save cost
+* Firestore
+As a main database.
+* Realtime Database
+Will store recent tasks which is frequently read and wrote
+They are only charged the Storage size and the Transfer, not like FireStore
+

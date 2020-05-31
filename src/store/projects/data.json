@@ -1,0 +1,12 @@
+[
+  { "id": "--------", "sortToken": "--------", "name": "-" },
+  { "id": "FABB8135", "sortToken": "6F119673", "name": "Transport" },
+  { "id": "CD0D5D31", "sortToken": "92A31C66", "name": "Grooming" },
+  { "id": "8EF2D9EA", "sortToken": "9B78F455", "name": "Eating" },
+  { "id": "3D5F2FE1", "sortToken": "5AD0FC10", "name": "Hobby" },
+  { "id": "10810226", "sortToken": "E0BA287F", "name": "Work" },
+  { "id": "06548B4B", "sortToken": "5B4DAE27", "name": "Create App" },
+  { "id": "B69B3F59", "sortToken": "CA85815B", "name": "Learn English" },
+  { "id": "335D28E5", "sortToken": "F4E66155", "name": "Household" },
+  { "id": "3AE6BEF4", "sortToken": "D9E2E274", "name": "Sleep" }
+]
