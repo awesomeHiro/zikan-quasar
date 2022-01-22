@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
-    "nanoid": "^3.1.9",
+    "nanoid": "^3.1.31",
     "quasar": "^1.0.0",
     "vue": "^2.6.11",
     "vue-router": "^3.3.2"
